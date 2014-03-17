@@ -1,0 +1,5 @@
+*.zip
+composer.lock
+/vendor
+/.idea
+.DS_STORE
